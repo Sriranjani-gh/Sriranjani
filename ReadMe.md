@@ -17,4 +17,4 @@ I’m a postgraduate student with a strong interest in combining **economics** a
 - **Libraries**: NumPy, Pandas, Matplotlib  
 - **Data Tools**: Excel, Power BI  
 - **Specialized**: Time Series Analysis, Econometric Modelling
-- **Other**: Git
+- **Other**: Git.
