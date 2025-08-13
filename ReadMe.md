@@ -20,5 +20,7 @@ I’m a postgraduate student with a strong interest in combining **economics** a
 - **Other**: Git.
 
 - ## 📫 Connect With Me
-[![LinkedIn]](www.linkedin.com/in/sriranjani-m-67514b32b)  
-[![Email]](sriranjani2793@gmail.com)
+www.linkedin.com/in/sriranjani-m-67514b32b
+sriranjani2793@gmail.com
+
+
